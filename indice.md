@@ -3,18 +3,12 @@
 ## Índice
 
 1. Computação em Nuvem
-  1. XaaS - Conceitos de Computação em Nuvem e "Tudo como Serviço"
+  1. XaaS - Tudo como Serviço
     1. IaaS - Infraestrutura como Serviço
-    2. PaaS - Plataforma como Serviço
-    3. Saas - Software como Serviço
-    4. NaaS - Rede como Serviço
+    2. NaaS - Rede como Serviço
+    3. PaaS - Plataforma como Serviço
+    4. Saas - Software como Serviço
   2. Virtualização
-    1. Virtualização Completa
-    2. Para-virtualização
-    2. Virtualização em Sistema Operacional
-    3. Hypervisor
-       1. Tipo 1 - Bare Metal
-       2. Tipo 2 - Hosted
   3. Modelos de Implantação
   4. Segurança
 2. OpenStack
