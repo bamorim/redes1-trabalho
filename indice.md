@@ -1,8 +1,11 @@
 # OpenStack
 
+Por *Pedro Volpi Nacif e *Bernardo Dornellas Cysneiros Gomes de Amorim
+
 ## Índice
 
-1. Computação em Nuvem
+1. Introdução
+2. Computação em Nuvem
   1. XaaS - Tudo como Serviço
     1. IaaS - Infraestrutura como Serviço
     2. NaaS - Rede como Serviço
@@ -11,7 +14,7 @@
   2. Virtualização
   3. Modelos de Implantação
   4. Segurança
-2. OpenStack
+3. OpenStack
   1. Arquitetura
   2. Componentes
     1. Identity (keystone)
@@ -29,7 +32,10 @@
   4. Requisitos
     1. Banco de Dados
     2. Serviço de Mensagens
-3. Alternativas
+4. Alternativas
   1. HP Helion Eucalyptus
   2. Apache CloudStack
   3. Google's Ganeti
+5. Conclusão
+6. Perguntas
+7. Referências
