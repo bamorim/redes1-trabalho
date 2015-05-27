@@ -1,6 +1,6 @@
 # OpenStack
 
-Por *Pedro Volpi Nacif e *Bernardo Dornellas Cysneiros Gomes de Amorim
+Por *Pedro Volpi Nacif* e *Bernardo Dornellas Cysneiros Gomes de Amorim*
 
 ## Índice
 
