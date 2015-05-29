@@ -1,1 +1,3 @@
-# redes1-trabalho
+# Introdução
+
+O OpenStack é uma plataforma de software aberto para computação na nuvem.
