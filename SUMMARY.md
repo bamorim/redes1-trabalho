@@ -13,7 +13,6 @@ Por *Pedro Volpi Nacif* e *Bernardo Dornellas Cysneiros Gomes de Amorim*
     4. [Saas - Software como Serviço](nuvem/saas.md)
   2. [Virtualização](nuvem/virtualizacao.md)
   3. [Modelos de Implantação](nuvem/implantacao.md)
-  4. [Segurança](nuvem/seguranca.md)
 3. [OpenStack](openstack.md)
   1. [Arquitetura](openstack/arquitetura.md)
   2. [Componentes](openstack/componentes.md)
